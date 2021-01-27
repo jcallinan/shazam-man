@@ -27,5 +27,11 @@ namespace ShazamExample1
         public Genre thisGenre;
         public Artist thisArtist;
         public DateTime ReleaseDate;
+        public List<Song> SongsInRelease;
+        public Release()
+        {
+            Console.WriteLine("Release created.");
+            SongsInRelease = new List<Song>();
+        }
     }
 }
