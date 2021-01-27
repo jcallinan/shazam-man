@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShazamExample1", "ShazamExample1\ShazamExample1.csproj", "{8919D949-8616-4DF2-AFEC-903D5DA155DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8919D949-8616-4DF2-AFEC-903D5DA155DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8919D949-8616-4DF2-AFEC-903D5DA155DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8919D949-8616-4DF2-AFEC-903D5DA155DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8919D949-8616-4DF2-AFEC-903D5DA155DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89CB8C69-CF50-4872-B61A-90B396D14C08}
+	EndGlobalSection
+EndGlobal
